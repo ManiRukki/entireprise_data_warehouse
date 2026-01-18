@@ -1,0 +1,6 @@
+Faker==19.3.0
+pandas==2.0.3
+sqlalchemy==2.0.21
+apache-airflow==2.7.1
+dbt-core==1.6.0
+psycopg2-binary==2.9.7
